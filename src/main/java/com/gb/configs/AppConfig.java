@@ -27,3 +27,5 @@ public class AppConfig implements WebMvcConfigurer {
         return viewResolver;
     }
 }
+
+//SMTH wrong when starting tomcat - it started and display 404 error
